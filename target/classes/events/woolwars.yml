@@ -1,0 +1,4 @@
+general:
+  name: "Woolwars"
+  min-players: 2
+  max-players: 10

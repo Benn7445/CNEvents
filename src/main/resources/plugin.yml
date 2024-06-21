@@ -1,0 +1,6 @@
+name: CNEvents
+version: '${project.version}'
+main: me.quartz.cnevents.CNEvents
+api-version: '1.20'
+commands:
+  cnevent:

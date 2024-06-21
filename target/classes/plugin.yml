@@ -1,0 +1,6 @@
+name: CNEvents
+version: '1.0-SNAPSHOT'
+main: me.quartz.cnevents.CNEvents
+api-version: '1.20'
+commands:
+  cnevent:

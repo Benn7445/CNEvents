@@ -1,0 +1,21 @@
+schedule:
+  - "2:00"
+  - "13:00"
+  - "18:00"
+
+messages:
+  event-announce:
+    - " "
+    - "&f██████"
+    - "&f█&a████&f█"
+    - "&f█&a█&f████  &a&l%event% Event"
+    - "&f█&a███&f██  &3%available% Places Available!"
+    - "&f█&a█&f████  &7(Click Here To Join)"
+    - "&f█&a████&f█"
+    - "&f██████"
+    - " "
+  event-announce-hover: "&aClick Here To Join!"
+  event-join: "&6%player% &ejoin the event. &7(%players%/%available%)"
+  event-left: "&6%player% &eleft the event. &7(%players%/%available%)"
+  event-full: "&cThis event is already full!"
+  event-joined: "&cYou already joined this event!"

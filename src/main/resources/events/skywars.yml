@@ -1,0 +1,4 @@
+general:
+  name: "Skywars"
+  min-players: 2
+  max-players: 10

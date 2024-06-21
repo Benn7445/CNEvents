@@ -1,0 +1,4 @@
+general:
+  name: "Battle Royal"
+  min-players: 2
+  max-players: 10
